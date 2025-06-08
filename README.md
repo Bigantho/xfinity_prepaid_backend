@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# xfinity_prepaid_backend
-=======
 # Xfinity Prepaid Backend
 Proyecto desarrollado para llevar el control de las ordenes vendidas mediante el producto de Xfinity Prepaid
 
@@ -15,4 +12,3 @@ Proyecto desarrollado para llevar el control de las ordenes vendidas mediante el
 
 ## Desarrollado por: 
 Anthony Alexander Vasquez Iraheta
->>>>>>> master
